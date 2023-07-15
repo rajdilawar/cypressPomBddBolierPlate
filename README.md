@@ -9,9 +9,7 @@ Cypress Page Object Model with BDD - Login Scenario Boiler plate code by Rajdila
 - [Project Structure](#project-structure)
 - [Writing Tests](#writing-tests)
 - [Running Tests](#running-tests)
-- [Test Results](#test-results)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
